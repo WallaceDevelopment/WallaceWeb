@@ -2,7 +2,7 @@
 title: "About"
 ---
 
- {{< image src="/head.jpeg" alt="Lee" position="center" style="height:250px;">}}
+ {{< image src="/head.jpeg" alt="Lee" position="center" style="height:200px;">}}
 
 
 I'm an undergraduate studying for a BSc in Business Information Technology at [UoG](https://gre.ac.uk). Aiming to study for an MSc in Computer Science @ [UCL](http://www.ucl.ac.uk/).
