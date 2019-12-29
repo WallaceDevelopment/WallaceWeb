@@ -24,7 +24,7 @@ theme = "hello-friend-ng"
     homeSubtitle = "Student | (London, UK)"
     subtitle = ""
     keywords = ""
-    copyright = "Lee Wallace 2020"
+    copyright = "Lee Wallace"
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
