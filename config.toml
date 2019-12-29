@@ -41,9 +41,6 @@ theme = "hello-friend-ng"
     enableEmoji = true
     
     [author]
-  name = "Lee Wallace"
-  FirstName = "Lee"
-  LastName = "Wallace"
   Location = "London, UK"
   Email = "hello@leewallace.me"
     
