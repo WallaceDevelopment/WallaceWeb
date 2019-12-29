@@ -34,6 +34,19 @@ theme = "hello-friend-ng"
     #
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
+    
+    disable404 = true
+    disableRSS = true
+    enableRobotsTXT = true
+    enableEmoji = true
+    
+    [author]
+  name = "Lee Wallace"
+  FirstName = "Lee"
+  LastName = "Wallace"
+  Location = "London, UK"
+  Email = "hello@leewallace.me"
+    
 
 	# You can create a language based menu
     [languages.en.menu]
