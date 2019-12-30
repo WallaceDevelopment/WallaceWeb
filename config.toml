@@ -55,6 +55,10 @@ theme = "hello-friend-ng-me"
         identifier = "Journal"
         name = "Journal"
         url = "https://journal.leewallace.me"
+      [[languages.en.main.menu]]
+	identifier = "FYP"
+	name = "FYP"
+	url = "/"
 
  # Social icons
   [[params.social]]
@@ -87,3 +91,7 @@ theme = "hello-friend-ng-me"
     identifier = "journal"
     name       = "Journal"
     url        = "https://journal.leewallace.me/"
+  [[menu.main]]
+    identifier = "FYP"
+    name = "FYP"
+    url = "/"
