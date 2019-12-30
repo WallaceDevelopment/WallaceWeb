@@ -55,7 +55,7 @@ theme = "hello-friend-ng-me"
         identifier = "Journal"
         name = "Journal"
         url = "https://journal.leewallace.me"
-      [[languages.en.main.menu]]
+      [[languages.en.menu.main]]
 	identifier = "FYP"
 	name = "FYP"
 	url = "/"
