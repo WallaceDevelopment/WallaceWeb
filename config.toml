@@ -71,7 +71,7 @@ theme = "hello-friend-ng-me"
 
   [[params.social]]
     name = "email"
-    url  = "leewallace.vcf"
+    url  = "mailto:hello@leewallace.me"
 
   [[params.social]]
     name = "github"
