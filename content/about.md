@@ -20,4 +20,4 @@ Feel free to [reach out to me][1]; I'll respond as soon as possible.
 : [Contact Card][2]
 
 [1]:	mailto:hello@leewallace.me
-[2]: leewallace.vcf
+[2]: https://leewallace.me/leewallace.vcf
