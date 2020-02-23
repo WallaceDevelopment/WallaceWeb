@@ -10,7 +10,7 @@ theme = "hello-friend-ng-me"
 
   # Metadata mostly used in document's head
   description = "Website for Lee Wallace"
-  keywords = "homepage, student, science, informatics, development, programming"
+  keywords = "homepage, student, science, informatics, development, programming, sittingbourne, kent, london, software, Lee Wallace, lee wallace, university"
   images = [""]
 
   # Directory name of your blog content (default is `content/posts`)
@@ -23,7 +23,7 @@ theme = "hello-friend-ng-me"
     title = "Lee Wallace"
     homeSubtitle = "Student | (London, UK)"
     subtitle = ""
-    keywords = ""
+    keywords = "homepage, student, science, informatics, development, programming, sittingbourne, kent, london, software, Lee Wallace, lee wallace, university"
     copyright = "Lee Wallace"
     readOtherPosts = "Read other posts"
 
